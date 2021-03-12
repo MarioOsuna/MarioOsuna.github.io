@@ -701,6 +701,10 @@ footer a {
   font-weight: bold;
 }
 
+.titulos span {
+  color: black;
+}
+
 .copy {
   font-size: 10px;
 }
