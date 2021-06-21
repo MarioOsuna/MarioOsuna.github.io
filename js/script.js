@@ -32,9 +32,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 if (scroll > 699 && !relleno) {
 
                     animateprogress("#html5", 91);
-                    animateprogress("#php", 89);
+                    animateprogress("#php", 85);
                     animateprogress("#css", 91);
-                    animateprogress("#python", 72);
+                    animateprogress("#python", 90);
                     animateprogress("#javascript", 83);
                     animateprogress("#Android", 87);
                     relleno = true;
